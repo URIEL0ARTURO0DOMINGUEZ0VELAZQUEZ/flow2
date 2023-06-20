@@ -16,5 +16,6 @@ luego dar click en nuestro nodo de funcion e introducir el  siguiente codigo
 ![imagen](https://github.com/URIEL0ARTURO0DOMINGUEZ0VELAZQUEZ/flow2/assets/136390705/0f9cce58-7d21-417c-add9-e90f559e43b1)
 
 y para guardar cambios oprimimos **Deploy**
-/home/uriel/Imágenes/GIMP/Captura desde 2023-06-20 16-47-36.xcf
+![imagen](https://github.com/URIEL0ARTURO0DOMINGUEZ0VELAZQUEZ/flow2/assets/136390705/353524ba-7a8e-429c-9996-153993178b6f)
+
 
